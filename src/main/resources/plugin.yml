@@ -1,0 +1,7 @@
+name: ResettableRegions
+version: '${project.version}'
+main: ro.kmagic.resettableregions.ResettableRegions
+api-version: '1.20'
+depend: [WorldGuard]
+authors: [kMagic]
+description: Adds resettable regions that reset all blocks broken by entities and players every 30 seconds
